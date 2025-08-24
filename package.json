@@ -1,12 +1,12 @@
 {
-"name": "Robin-web-pair",
+"name": "BREEZY MD",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
-      "stop": "pm2 stop robin",
-     "restart": "pm2 restart robin"
+      "start": "pm2 start index.js --deep-monitoring --attach --BREEZY",
+      "stop": "pm2 stop BREEZY",
+     "restart": "pm2 restart BREEZY"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
